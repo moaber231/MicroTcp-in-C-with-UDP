@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wextra -rdynamic CMakeFiles/bandwidth_test.dir/bandwidth_test.c.o -o bandwidth_test  -Wl,-rpath,/home/konstantinos/Desktop/project_335/build/lib: ../lib/libmicrotcp.so 

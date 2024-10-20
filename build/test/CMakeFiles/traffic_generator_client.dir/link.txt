@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wextra -rdynamic CMakeFiles/traffic_generator_client.dir/traffic_generator_client.c.o -o traffic_generator_client  -Wl,-rpath,/home/konstantinos/Desktop/project_335/build/lib ../lib/libmicrotcp.so 

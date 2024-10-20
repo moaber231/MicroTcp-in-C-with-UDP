@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wextra -rdynamic CMakeFiles/test_microtcp_client.dir/test_microtcp_client.c.o -o test_microtcp_client  -Wl,-rpath,/home/konstantinos/Desktop/project_335/build/lib ../lib/libmicrotcp.so 

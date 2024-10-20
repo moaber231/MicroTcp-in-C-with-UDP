@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC  -Wextra -shared -Wl,-soname,libmicrotcp.so -o libmicrotcp.so CMakeFiles/microtcp.dir/microtcp.c.o 
